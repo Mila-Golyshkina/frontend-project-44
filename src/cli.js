@@ -8,4 +8,3 @@ const sayHiToPlayer = () => {
 };
 
 export default sayHiToPlayer;
-

@@ -2,4 +2,3 @@
 import sayHiToPlayer from '../src/cli.js';
 
 sayHiToPlayer();
-
