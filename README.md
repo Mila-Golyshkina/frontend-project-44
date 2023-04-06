@@ -29,3 +29,8 @@
 <p>The essence of the game is as follows: two random numbers is shown, for example, 25 50. You must calculate and enter the greatest common divisor of these numbers.</p>
 <p>This is example of the game:<p>
 <a href="https://asciinema.org/a/XkzaN8OYO3DK2NFkLkiAXJVkT" target="_blank"><img src="https://asciinema.org/a/XkzaN8OYO3DK2NFkLkiAXJVkT.svg" /></a>
+
+<h2>Game 4: "Arithmetic progression"</h2>
+<p>Show the player a series of numbers that form an arithmetic progression, replacing any of the numbers with two dots. The player must determine that number. The length can be generated randomly, but contains no less than 5 and no more than 10 numbers.</p>
+<p>This is example of the game:<p>
+<a href="https://asciinema.org/a/inl6wuL6ftlDpSDl5iwPv4mzR" target="_blank"><img src="https://asciinema.org/a/inl6wuL6ftlDpSDl5iwPv4mzR.svg" /></a>
