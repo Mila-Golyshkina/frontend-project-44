@@ -24,3 +24,8 @@
 <p>The essence of the game is this: the user is shown a random mathematical expression, such as 35 + 16, which must be calculated and write down the correct answer.</p>
 <p>This is example of the game:<p>
 <a href="https://asciinema.org/a/AsJRyElaGM6xAvhZBA1WUKetX" target="_blank"><img src="https://asciinema.org/a/AsJRyElaGM6xAvhZBA1WUKetX.svg" /></a>
+
+<h2>Game 3: "Greatest common divisor"</h2>
+<p>The essence of the game is as follows: two random numbers is shown, for example, 25 50. You must calculate and enter the greatest common divisor of these numbers.</p>
+<p>This is example of the game:<p>
+<a href="https://asciinema.org/a/XkzaN8OYO3DK2NFkLkiAXJVkT" target="_blank"><img src="https://asciinema.org/a/XkzaN8OYO3DK2NFkLkiAXJVkT.svg" /></a>
