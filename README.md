@@ -34,3 +34,8 @@
 <p>Show the player a series of numbers that form an arithmetic progression, replacing any of the numbers with two dots. The player must determine that number. The length can be generated randomly, but contains no less than 5 and no more than 10 numbers.</p>
 <p>This is example of the game:<p>
 <a href="https://asciinema.org/a/inl6wuL6ftlDpSDl5iwPv4mzR" target="_blank"><img src="https://asciinema.org/a/inl6wuL6ftlDpSDl5iwPv4mzR.svg" /></a>
+
+<h2>Game 5: "Is it a prime number?"</h2>
+<p>The essence of the game is this: the user is shown a random number. And he has to answer 'yes' if the number is prime, or 'no' if it is not.</p>
+<p>This is example of the game:<p>
+<a href="https://asciinema.org/a/s7dYNpDCTxDvnYyzcj0Y7vfeH" target="_blank"><img src="https://asciinema.org/a/s7dYNpDCTxDvnYyzcj0Y7vfeH.svg" /></a>
