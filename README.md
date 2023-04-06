@@ -19,3 +19,8 @@
 <p>The essence of the game is this: the user is shown a random number. And he has to answer 'yes' if the number is even, or 'no' if it is odd. In case the user gives the wrong answer, the game ends. You must give the correct answer to three questions in a row.</p>
 <p>This is example of the game:<p>
 <a href="https://asciinema.org/a/m8vl2lfRCtZXmoInkm6U9hk6l" target="_blank"><img src="https://asciinema.org/a/m8vl2lfRCtZXmoInkm6U9hk6l.svg" /></a>
+
+<h2>Game 2: "Calculator"</h2>
+<p>The essence of the game is this: the user is shown a random mathematical expression, such as 35 + 16, which must be calculated and write down the correct answer.</p>
+<p>This is example of the game:<p>
+<a href="https://asciinema.org/a/AsJRyElaGM6xAvhZBA1WUKetX" target="_blank"><img src="https://asciinema.org/a/AsJRyElaGM6xAvhZBA1WUKetX.svg" /></a>
